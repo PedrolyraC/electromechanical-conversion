@@ -1,4 +1,4 @@
-# electromechanical_conversion:_Transformer_Projector
+# Electromechanical Conversion: Transformer Projector
 
 Project related to the electromechanical conversion discipline from Pernambuco's Polytechnic School.
 
